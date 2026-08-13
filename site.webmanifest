@@ -1,0 +1,15 @@
+{
+  "name": "Marietta Dental Professionals",
+  "short_name": "Marietta Dental",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1b4b49",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/elegant-smiles/elegantsmiles/main/Elegant%20Smiles.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
