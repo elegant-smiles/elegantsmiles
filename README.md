@@ -1,4 +1,4 @@
-# Marietta Dental Professionals — Homepage
+# Elegant Smiles — Homepage
 
 A multi-page static website built with plain HTML and CSS.
 
@@ -15,7 +15,7 @@ style.css        # shared styling for all pages
 
 **Homepage**
 - Hero with tagline and call-to-action
-- About Marietta Dental Professionals
+- About Elegant Smiles
 - Why Choose Us
 - Services
 - Mission & Vision
